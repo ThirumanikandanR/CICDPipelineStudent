@@ -1,4 +1,3 @@
-com\dummy\StudentDemoClass\dto\StudentDto.class
 com\dummy\StudentDemoClass\controller\StudentController.class
 com\dummy\StudentDemoClass\StudentDemoClassApplication.class
 com\dummy\StudentDemoClass\entity\Student.class
